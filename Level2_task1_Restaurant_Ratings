@@ -10,3 +10,6 @@ Level 1
         received by restaurants.
 """
 # import essential libraries
+# import numpy
+import pandas as pd
+from matplotlib import pyplot as plt
